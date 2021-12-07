@@ -1,27 +1,27 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research focuses on the outcomes for persons with liver disease
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Liver Immunology
+    institution: University of Birmingham
+    year: 2013
+  - course: MRCP
+    institution: Royal College of Physicians
+    year: 2005
+  - course: MBChB
+    institution: University of Glasgow
+    year: 2002
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Nonalcoholic fatty liver disease
+- Diagnosis
+- Data analytics
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: Associate Professor & Consultant Hepatologist
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,21 +31,22 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/IanArowe
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=xyIXrQwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/iacrowe
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/ian-rowe-9981708a/
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Ian A Rowe
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Associate Professor at the University of Leeds and Honorary Consultant Hepatologist at the Leeds Liver Unit.  My group focuses on patient relevant aspects of clinical hepatology, particularly diagnosis and the impacts of treatment on outcomes.  We employ a wide range of methods from analytical epidemiology to large-scale clinical trials.
+
+I am currently Chair of the British Association for the Study of the Liver Research Committee and I lead the Monitoring Group for the National Liver Transplant Offering System.  
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

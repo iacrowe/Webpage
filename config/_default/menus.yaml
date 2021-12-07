@@ -7,24 +7,15 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
   - name: Talks
-    url: '#talks'
+    url: talks/
     weight: 40
   - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Courses
-    url: courses/
-    weight: 60
-  - name: Contact
-    url: '#contact'
-    weight: 70
+    url: publication/
+    weight: 30
+  - name: Projects
+    url: project/
+    weight: 20
   - name: Shiny
     url: shiny/
-    weight: 80
+    weight: 50
