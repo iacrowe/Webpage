@@ -23,7 +23,8 @@ publishDate: "2021-06-01T00:00:00Z"
 slides: 
 summary: This paper describes a simple approach to understanding the placebo response to treatments for NASH.
 tags:
-- Source Themes
+- NASH
+- Open science
 title: The placebo response in randomised trials in nonalcoholic steatohepatitis simply explained
 url_code: https://github.com/iacrowe/sampling_variability
 url_dataset: ""

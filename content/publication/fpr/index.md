@@ -27,7 +27,7 @@ publishDate: "2020-12-01T00:00:00Z"
 slides: 
 summary: Using a systematic review, here we define the likely rate of fibrosis progression in NASH and its impact on the proportion of patients progressing to cirrhosis.
 tags:
-- Source Themes
+- NASH
 title: Fibrosis progression rate in a systematic review of placebo-treated nonalcoholic steatohepatitis
 url_code: ""
 url_dataset: ""

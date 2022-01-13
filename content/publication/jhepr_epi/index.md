@@ -31,7 +31,7 @@ publishDate: "2021-01-01T00:00:00Z"
 slides: 
 summary: Many more people are getting liver cancer, particularly the subtype hepatocellular carcinoma, than 20 years ago. Men in Scotland are most likely to get liver cancer and to die from it. Survival after liver cancer diagnosis is getting longer but still less than half are alive after 1 year.
 tags:
-- Source Themes
+- HCC
 title: Primary liver cancer in the UK, Incidence, incidence-based mortality, and survival by subtype, sex, and nation
 url_code: ""
 url_dataset: ""

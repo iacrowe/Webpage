@@ -25,7 +25,7 @@ publishDate: "2020-08-01T00:00:00Z"
 slides: 
 summary: This study describes the rates and causes of screen failure in large trials in NASH.
 tags:
-- Source Themes
+- NASH
 title: High rates of ineligibility for participation in trials of new therapies in nonalcoholic steatohepatitis, a systematic review
 url_code: ""
 url_dataset: ""

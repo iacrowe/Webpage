@@ -24,7 +24,7 @@ publishDate: "2021-03-01T00:00:00Z"
 slides: 
 summary: This is a state of the art review of treatment candidacy for patients with NASH.
 tags:
-- Source Themes
+- NASH
 title: Treatment Candidacy for Pharmacologic Therapies for NASH
 url_code: ""
 url_dataset: ""

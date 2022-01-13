@@ -47,7 +47,8 @@ publishDate: "2021-01-01T00:00:00Z"
 slides: 
 summary: This consensus paper defines strategies to analyse administrative data in NASH.
 tags:
-- Source Themes
+- NASH
+- Open science
 title: Administrative Coding in Electronic Health Care Record-Based Research of NAFLD, An Expert Panel Consensus Statement
 url_code: ""
 url_dataset: ""

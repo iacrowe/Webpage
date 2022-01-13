@@ -29,7 +29,7 @@ publishDate: "2019-06-01T00:00:00Z"
 slides: 
 summary: This study describes the rates and causes of screen failure in large trials in NASH.
 tags:
-- Source Themes
+- Alcohol-related liver disease
 title: Natural history of histologically proven alcohol-related liver disease, a systematic review
 url_code: ""
 url_dataset: ""

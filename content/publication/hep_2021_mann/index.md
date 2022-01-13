@@ -37,7 +37,8 @@ publishDate: "2021-06-01T00:00:00Z"
 slides: 
 summary: Understanding the nature of animal models for NASH and their ability to recapitulate the human disease.
 tags:
-- Source Themes
+- NASH
+- Open science
 title: A Systematic Review of Animal Models of NAFLD Finds High-Fat, High-Fructose Diets Most Closely Resemble Human NAFLD
 url_code: ""
 url_dataset: https://doi.org/10.5061/dryad.pnvx0k6kq
