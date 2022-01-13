@@ -6,39 +6,40 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
   dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
   Vestibulum sit amet erat at nulla eleifend gravida.
-author_notes:
-- Equal contribution
-- Equal contribution
 authors:
 - admin
 - Robert Ford
-date: "2015-09-01T00:00:00Z"
+date: "2013-07-01T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
-projects: []
-publication: '*Journal of Source Themes, 1*(1)'
-publication_short: ""
+links:
+- name: Custom Link
+  url: http://example.org
+projects:
+- internal-project
+publication: In *Source Themes Conference*
+publication_short: In *STC*
 publication_types:
-- "2"
+- "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example journal article
+title: An example conference paper
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
+url_dataset: '#'
+url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_poster: '#'
 url_project: ""
 url_slides: ""
-url_source: ""
-url_video: ""
+url_source: '#'
+url_video: '#'
 ---
 
 {{% callout note %}}
