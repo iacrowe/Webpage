@@ -45,7 +45,11 @@ superuser: true
 title: Ian A Rowe
 ---
 
+<<<<<<< HEAD
 I am Associate Professor at the University of Leeds Institute for Medical Research and Honorary Consultant Hepatologist at the Leeds Liver Unit.  My research focuses on the patient relevant aspects of clinical hepatology, particularly diagnosis of nonalcoholic fatty liver disease (NAFLD) and the impacts of treatment on outcomes, using a wide range of methods from analytical epidemiology to large-scale clinical trials.
+=======
+I am Associate Professor at the University of Leeds Institute for Medical Research and Honorary Consultant Hepatologist at the Leeds Liver Unit.  My research focuses on patient relevant aspects of clinical hepatology, particularly diagnosis of nonalcoholic fatty liver disease (NAFLD) and the impacts of treatment on outcomes, using a wide range of methods from analytical epidemiology to large-scale clinical trials.
+>>>>>>> db92f3b1468a30e66252d69a1a2de0491e8ea2c9
 
 I also currently chair the British Association for the Study of the Liver Research Committee and I lead the Monitoring Group for the National Liver Transplant Offering System.
 
